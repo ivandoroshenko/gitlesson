@@ -1,7 +1,14 @@
 Lorem ipusm
 abrakadabra
+<<<<<<< HEAD
 Rhiis dsfdsfdsfl;k;cl
 <h1>This is headline</h1>
  ------------
 -----------
 -----------
+=======
+Rhiis dsfdsfdsfl;k;cl - - - - - - - 
+<h1>This is headline</h1> -----------
+--------------
+----------------
+>>>>>>> 49410265e0ace08357d5f616e1659d95644fe431
